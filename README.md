@@ -22,9 +22,9 @@
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
 
-### Full Stack Projects
+### My Projects
 
 [![Getbenepass](./images/benepass.png)](https://www.getbenepass.com/)
-[![Spockee](./images/spockee.png)](https://www.spockee.com/)
 [![Rehabguru](./images/rehabguru.png)](https://app.rehabguru.com/)
+[![Spockee](./images/spockee.png)](https://www.spockee.com/)
 [![Spend](./images/spend.png)](https://app.rehabguru.com/)
